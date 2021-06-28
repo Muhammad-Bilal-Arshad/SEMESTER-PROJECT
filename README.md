@@ -4,6 +4,7 @@ This management system consists of three classes
 1.	Account
 2.	Functions
 3.	Runner
+
 ACCOUNT
 This class contains all the data fields that we are going to use alongside their getters and setters methods. This class uses Serializable interface. 
 FUNCTIONS

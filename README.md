@@ -22,8 +22,13 @@ We used 3 files in this project.
 2.	LoginDetailObjectForm.txt
 3.	LatestActivity.txt
 LOGINDETAIL.TXT
+
 This file contains the login details of registered users in human readable form.
+
 LOGINDETAILOBJECTFORM.TXT
+
 Same thing as above but in this file data is stored in form of objects and is not readable by humans.
+
 LATESTACTIVITY.TXT
+
 In this file the latest activities happening during a session are stored. 

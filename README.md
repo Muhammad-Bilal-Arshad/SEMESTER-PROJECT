@@ -21,6 +21,7 @@ We used 3 files in this project.
 1.	LoginDetail.txt
 2.	LoginDetailObjectForm.txt
 3.	LatestActivity.txt
+
 LOGINDETAIL.TXT
 
 This file contains the login details of registered users in human readable form.

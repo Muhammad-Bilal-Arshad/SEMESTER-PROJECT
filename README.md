@@ -6,12 +6,15 @@ This management system consists of three classes
 3.	Runner
 
 ACCOUNT
+
 This class contains all the data fields that we are going to use alongside their getters and setters methods. This class uses Serializable interface. 
 
 FUNCTIONS
+
 This class contains methods for the functionalities that we are going to perform in bank management system like registering, logging in , depositing, withdrawing etc. This class is a sub class of Account class. This class also uses Serializable interface
 
 RUNNER
+
 This is the class where main method is present. 
 FILES USED
 We used 3 files in this project.
